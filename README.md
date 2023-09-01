@@ -18,7 +18,7 @@
 
 - <b>[Python Script: Sort and Output PDF](https://github.com/gbrlbrynvn/test)</b>
   - Description
-- <b>[Basic Website]([https://github.com/gbrlbrynvn/test](https://gbrlbrynvn.github.io/firstsite/)</b>
+- <b>[Basic Website](https://gbrlbrynvn.github.io/firstsite/)</b>
   - Description
     
 <h2>📃 Certifications:</h2>
