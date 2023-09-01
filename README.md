@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Setup Active Directory Home Lab](https://github.com/gbrlbrynvn/test)</b>
-  - Description
+- <b>[Setup Active Directory Home Lab](https://github.com/gbrlbrynvn/ActiveDirectoryHomeLab)</b>
+  - Create a Home Lab running Active Directory, aiming to emulate a basic Corporate Network that can support up to 100 network devices.
+  - Configured DHCP and Windows DNS, along with Remote Access Server to support NAT/PAT.
+  - Used PowerShell to automate provisions.
 - <b>[Setup SIEM in Azure Exposure: Honeypot](https://github.com/gbrlbrynvn/test)</b>
   - Description
 - <b>[Create a File Integrity Monitor](https://github.com/gbrlbrynvn/test)</b>
