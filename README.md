@@ -20,13 +20,13 @@
 
 - <b>[Python Script: Sort and Output PDF](https://github.com/gbrlbrynvn/test)</b>
   - Description
-- <b>[Basic Website](https://gbrlbrynvn.github.io/firstsite/)</b>
-  - Description
+- <b>[Simple Website using HTML and CSS](https://gbrlbrynvn.github.io/firstsite/)</b>
+  - Made a simple website containing brief information about myself just to test my HTML and CSS knowledge. This project will be worked on in the future to add Javascript and possibly backend features.
     
 <h2>📃 Certifications:</h2>
 
-- <b>[CompTIA Security+](https://github.com/gbrlbrynvn/test)</b>
-- <b>[CompTIA Network+](https://github.com/gbrlbrynvn/test)</b>
+- <b>[CompTIA Security+](https://i.imgur.com/tbyTl6h.png)</b>
+- <b>[CompTIA Network+](https://i.imgur.com/LdsP3UW.png)</b>
 
   
 <h2> 📲 Connect with me:</h2>
