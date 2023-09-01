@@ -26,9 +26,10 @@
 
 - <b>[Python Script: Sort and Output PDF](https://github.com/gbrlbrynvn/test)</b>
   - Description
-  - 
+    
 - <b>[Simple Website using HTML and CSS](https://gbrlbrynvn.github.io/firstsite/)</b>
   - Made a simple website containing brief information about myself just to test my HTML and CSS knowledge. This project will be worked on in the future to add Javascript and possibly backend features.
+  - [This is the repo page.](https://github.com/gbrlbrynvn/firstsite)
     
 <h2>📃 Certifications:</h2>
 
