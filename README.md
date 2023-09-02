@@ -34,8 +34,8 @@
     
 <h2>📃 Certifications:</h2>
 
-- <b>[CompTIA Security+](https://i.imgur.com/tbyTl6h.png)</b>
-- <b>[CompTIA Network+](https://i.imgur.com/LdsP3UW.png)</b>
+- <b>[CompTIA Security+](https://drive.google.com/file/d/1kNysWvaOsnJLvoIvqtZ7U62hF7nOtfTT/view?usp=sharing)</b>
+- <b>[CompTIA Network+](https://drive.google.com/file/d/1QeGumFifgh-hwyUwwn9YVIAdIVXyZvRo/view?usp=drive_link)</b>
 
   
 <h2> 📲 Connect with me:</h2>
