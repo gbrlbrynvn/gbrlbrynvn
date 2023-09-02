@@ -11,11 +11,13 @@
   - Create a Home Lab running Active Directory, aiming to emulate a basic Corporate Network that can support up to 100 network devices.
   - Configured DHCP and Windows DNS, along with Remote Access Server to support NAT/PAT.
   - Used PowerShell to automate provisions.
+<!--
 - <b>[Create a File Integrity Monitor](https://github.com/gbrlbrynvn/test)</b>
   - Description
+  -->
 - <b>[Vulnerability Management Lab](https://github.com/gbrlbrynvn/test)</b>
   - Description
-- <b>[Build a REST API](https://github.com/gbrlbrynvn/test)</b>
+- <b>[Build a simple REST API](https://github.com/gbrlbrynvn/test)</b>
   - In progress!
 
 
