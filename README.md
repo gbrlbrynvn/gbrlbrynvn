@@ -11,11 +11,11 @@
   - Create a Home Lab running Active Directory, aiming to emulate a basic Corporate Network that can support up to 100 network devices.
   - Configured DHCP and Windows DNS, along with Remote Access Server to support NAT/PAT.
   - Used PowerShell to automate provisions.
-- <b>[Vulnerability Management Lab](https://github.com/gbrlbrynvn/VulnerabilityManagementHomeLab)</b>
+- <b>[Azure's OpenVAS Vulnerability Management Lab](https://github.com/gbrlbrynvn/OpenVASLab)</b>
   - <b><i>In Progress</i> </b>
-  - Install and configure Nessus Essentials to perform credentialed scans against Windows 10 Hosts
+  - Set up a secure Azure network with OpenVAS Vulnerability Management Scanner VM
   - Implement Vulnerability Management Function on sandbox networks.
-  - Conduct vulnerability assessments with Nessus and remediate the vulnerabilities.
+  - Conduct unauthenticated and credentialed vulnerability scans using OpenVAS and remediate the vulnerabilities.
 - <b>[Build a simple REST API](https://github.com/gbrlbrynvn/test)</b>
   - Next Project!
 
