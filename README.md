@@ -17,7 +17,7 @@
   - Implement Vulnerability Management Function on sandbox networks.
   - Conduct unauthenticated and credentialed vulnerability scans using OpenVAS and remediate the vulnerabilities.
 - <b>[Build a simple REST API](https://github.com/gbrlbrynvn/test)</b>
-  - Next Project!
+  - <b>Next Project!</b>
 
 
 <h2>🧑🏻‍💻 Coding Projects:</h2>
