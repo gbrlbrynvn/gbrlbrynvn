@@ -26,7 +26,7 @@
   - This script automates the creation of a specified number of user accounts in an Active Directory environment, with random names and a default password, using a loop and a random name generation function.
 
 - <b>[Python Script: Sort and Output PDF using .csv file](https://github.com/gbrlbrynvn/PDFSrtOut.py)</b>
-  - This Python Script reads a .csv file and it searches through PDFs with the keywords given. It then takes that portion of the PDF and creates a new PDF file with all the sections containing said keywords.
+  - This Python Script reads a .csv file for keywords and uses it to search through PDFs with thousands of pages and information. It then takes that portion of the PDF and creates new PDF files containing all their sections respectively.
     
 - <b>[Simple Website using HTML and CSS](https://gbrlbrynvn.github.io/firstsite/)</b>
   - Made a simple website containing brief information about myself just to test my HTML and CSS knowledge. This project will be worked on in the future to add Javascript and possibly backend features.
