@@ -36,7 +36,7 @@
 
 - <b>[CompTIA Security+](https://drive.google.com/file/d/1kNysWvaOsnJLvoIvqtZ7U62hF7nOtfTT/view?usp=sharing) </b>Credential ID: 7JLZZM2SHBB1QFCM
 - <b>[CompTIA Network+](https://drive.google.com/file/d/1QeGumFifgh-hwyUwwn9YVIAdIVXyZvRo/view?usp=drive_link) </b>Credential ID: JC4KBLPSPJBQQCKL
-
+- <i><b>Currently studying for CompTIA Pentest+</b></i>
   
 <h2> 📲 Connect with me:</h2>
 
