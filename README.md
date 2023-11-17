@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gab! <br/><a href="http://www.linkedin.com/in/gabrielbryanvina/">Cybersecurity Specialist</a></h1>
+<h1>Hi, I'm Gab! <br/><a href="http://www.linkedin.com/in/gabrielbryanvina/">Aspiring Cybersecurity Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
